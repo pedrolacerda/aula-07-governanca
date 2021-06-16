@@ -16,7 +16,7 @@
 # You can also use email addresses if you prefer. They'll be
 # used to look up users just like we do for commit author
 # emails.
-*.jpg brunope84
+*.jpg @brunope84
 
 # In this example, @doctocat owns any files in the build/logs
 # directory at the root of the repository and any of its
