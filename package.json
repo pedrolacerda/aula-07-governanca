@@ -11,11 +11,11 @@
   "author": "",
   "license": "ISC",
   "devDependencies": {
-    "browser-sync": "^2.26.14",
-    "nodemon": "^2.0.7"
+    "browser-sync": "^3.0.4",
+    "nodemon": "^2.0.22"
   },
   "dependencies": {
-    "express": "^4.17.1",
-    "pug": "^3.0.2"
+    "express": "^4.20.0",
+    "pug": "^3.0.3"
   }
 }
